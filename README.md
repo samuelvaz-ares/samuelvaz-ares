@@ -36,13 +36,6 @@ Me chamo Samuel Vaz Caixeta, tenho 20 anos, sou natural de Minas Gerais. Conclui
 
 ---
 
-### 🔬 Projeto em Destaque
-
-**AutoSciExtractor (Protótipo em Desenv.)**
-> Uma pipeline automatizada em Python projetada para buscar, analisar e cruzar bases de dados de plantas com a literatura médica global. O sistema consome APIs (PubMed, SciELO), burla limitações de dados não estruturados via Inteligência Artificial e classifica compostos químicos promissores no combate à Doença de Chagas e Malária, retornando planilhas curadas com correlações fundamentadas.
-
----
-
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
